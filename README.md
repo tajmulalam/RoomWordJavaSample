@@ -1,6 +1,6 @@
 # RoomWordJavaSample
 
-In sample app i learned how to design and construct an app using the Architecture Components Room, ViewModel, and LiveData, and build an app that does the following:
+In this sample app i learned how to design and construct an app using the Architecture Components Room, ViewModel, and LiveData, and build an app that does the following:
 
 1. Implements of Android Architecture Components.
 1. Works with a database to get and save the data
