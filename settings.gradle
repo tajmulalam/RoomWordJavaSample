@@ -1,0 +1,2 @@
+rootProject.name='RoomWordJavaSample'
+include ':app'
